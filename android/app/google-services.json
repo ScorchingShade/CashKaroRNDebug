@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "301580099881",
+    "project_id": "cashkarorn",
+    "storage_bucket": "cashkarorn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301580099881:android:ec48aae91bb84d67059738",
+        "android_client_info": {
+          "package_name": "com.rncash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301580099881-31oru9pmv7mgcumctr1jgn94hs7fouq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPBRUrW6oJ4-BMM8o_5XVoKyL2uDaSzzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301580099881-31oru9pmv7mgcumctr1jgn94hs7fouq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
